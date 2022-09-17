@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="XService.Program">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XService.Src.Car">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCEAAABAAAAAAAAAAAAAQAAAAAAAAAAAgAAAAAAgA=</HashCode>
+      <FileName>Src\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XService.Src.CarMenu">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAEAAAgACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Src\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XService.Src.Manager">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAIAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Src\Manager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="XService.Src.ManagerMenu">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAgAIEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Src\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XService.Src.Mechanic">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAIAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Src\Mechanic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="XService.Src.MechanicMenu">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAQAAAgAAAAIAAAAAAA=</HashCode>
+      <FileName>Src\Mechanic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XService.Src.VerificationInfo">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAACAAAAAAAAAAAACAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Src\VerificationInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="XService.Src.IAccount">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAIAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Src\IAccount.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
